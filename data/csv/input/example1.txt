@@ -1,0 +1,4 @@
+id,firstName,lastName,country,province,city
+1,Clovis,Silva,Brazil,Sao Paulo,Campinas
+2,Ana,Souza,Canada,Quebec,Montreal
+3,Joana,Perez,Canada,Ontario,Ottawa
